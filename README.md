@@ -14,6 +14,15 @@ The Sales Data SQL-Tableau Analysis project involves integrating data from a sal
 
 ## Project - India-based Hardware company Sales Insights - Data Analysis performed on Tableau & SQL
 
+
+### Problem Statement
+The sales director wants to know the company's performance in various Indian states & accordingly provide some discount to boost the company's performance.
+* Q1. Revenue breakdown by cities.
+* Q2. Revenue breaks down by years & months.
+* Q3. Top 5 customers by revenue & sales quantity.
+* Q4. Top 5 Products by Revenue.
+* Q5. Net Profit & Profit Margin by Market
+
    
 
 
